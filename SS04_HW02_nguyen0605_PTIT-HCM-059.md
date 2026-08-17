@@ -1,9 +1,5 @@
 # BÁO CÁO BÀI TẬP 2: THIẾT KẾ LỚP CẤU TRÚC DỮ LIỆU BÓC TÁCH PHÒNG THỦ
 
-**Họ và tên:** Nguyễn Văn A  
-**Mã học viên:** nguyen0605_PTIT-HCM-059  
-**Môn học:** Kỹ năng ứng dụng AI  
-
 ---
 
 ## Phần 1: Tiêu đề bài tập và Yêu cầu đề bài
